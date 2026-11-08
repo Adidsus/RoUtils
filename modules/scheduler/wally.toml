@@ -1,0 +1,7 @@
+[package]
+name = "adidsus/scheduler"
+description = "Frame loop for systems: order, intervals, game time, per-system cost, frame budget"
+version = "0.1.0"
+authors = ["Adidsus"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"

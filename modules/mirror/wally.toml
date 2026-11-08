@@ -1,0 +1,7 @@
+[package]
+name = "adidsus/mirror"
+description = "State replication: server tables mirrored to chosen players, path changes, listeners"
+version = "0.2.0"
+authors = ["Adidsus"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
