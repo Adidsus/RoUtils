@@ -1,0 +1,7 @@
+[package]
+name = "adidsus/loader"
+description = "Module loader: Init/Start lifecycle, priorities, realm by attribute/tag/name, Actors"
+version = "0.1.0"
+authors = ["Adidsus"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
