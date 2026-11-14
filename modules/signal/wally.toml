@@ -1,0 +1,7 @@
+[package]
+name = "adidsus/signal"
+description = "Fast signal: connect order, safe disconnect during Fire, Once, Wait, deferred fire"
+version = "0.1.0"
+authors = ["Adidsus"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
